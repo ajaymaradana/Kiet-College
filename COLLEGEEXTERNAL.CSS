@@ -1,0 +1,70 @@
+BODY{
+    margin:0;
+    background-color: azure;
+}
+.HEADER{background-color: antiquewhite;
+    HEIGHT:50PX;
+    DISPLAY:FLEX;
+    flex-wrap: WRAP;
+    justify-content: space-between;
+    align-items: center;
+
+}
+ul{
+    display:flex;
+    list-style-type:none ;
+    gap:5px;
+
+}
+
+
+.MAIN_CONTENT{
+    text-align: CENTER;
+    background-color: azure;
+
+}
+.COLLEGE_PHOTO{background-color: azure;
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content:space-evenly ;
+}
+h2{
+    text-align: center;
+    
+
+}
+.CLASSROOMS{background-color: beige;
+    DISPLAY:FLEX;
+    flex-wrap: WRAP;
+    justify-content: space-evenly;
+
+}
+.LIBRARY{background-color: antiquewhite;
+    DISPLAY:FLEX;
+    flex-wrap:WRAP ;
+    gap:1px;
+    justify-content: space-evenly;
+}
+.COMPUTER{background-color: cornsilk;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.GROUND{background-color: floralwhite;
+    display:flex;
+    flex-wrap:wrap ;
+    gap:40;
+    justify-content:space-evenly ;
+}
+.BUSES{background-color: lavenderblush;
+    DISPLAY:FLEX;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.FOOTER{background-color: darkolivegreen;
+    text-align: center;
+    DISPLAY:FLEX;
+    flex-wrap: wrap;
+    GAP: 100px;
+    
+
